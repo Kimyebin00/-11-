@@ -1,7 +1,5 @@
-# SSAFY 11기 코딩테스트 준비 (SW Expert Academy D1~D3)
-
-## 준비 기록
-
+## SSAFY 11기 코딩테스트 준비 (SW Expert Academy D1~D3)
+### 준비 기록
 **2023.11.03.금**
 <ul>
   <li>
@@ -113,3 +111,10 @@
     </ul>
   </li>
 </ul>
+
+<hr/>
+
+### 스터디 | 진빈하이볼🍻
+| <img src="https://github.com/Yujin-nKim/SW_Expert_Academy/assets/67141385/c2e8435b-8388-4f13-a916-abd0e56db1f7" width="150" height="150"/> |  <img src="https://github.com/Yujin-nKim/SW_Expert_Academy/assets/67141385/86029bc0-d88b-4296-917e-97d834a23fe1" width="150" height="150"/>  | <img src="https://github.com/Yujin-nKim/SW_Expert_Academy/assets/67141385/ece8d7cd-1d4e-4ab7-81be-556b63f55552" width="150" height="150"/>  |
+|:---:|:---:|:---:|
+|  <a href="https://github.com/Kimyebin00">@Yebin Kim</a>  |  <a href="https://github.com/Yujin-nKim">@Yujin Kim</a>  |  <a href="https://github.com/jinyesong">@Yejin Song</a>  |
