@@ -36,7 +36,7 @@
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
         D2 - 0/25
@@ -68,7 +68,7 @@
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
         D2 - 2/25
@@ -83,7 +83,7 @@
 **2023.11.06.월**
 <ul>
   <li>
-    시간: 16:00-18:00
+    시간: 16:00-18:00 <strong>(2H)</strong>
   </li>
   <li>
     문제 풀이 수: D2 3문제
@@ -100,7 +100,7 @@
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
         D2 - 5/25
@@ -115,7 +115,7 @@
 **2023.11.07.화**
 <ul>
   <li>
-    시간: 18:15-20:35
+    시간: 18:15-20:35 <strong>(2H 20M)</strong>
   </li>
   <li>
     문제 풀이 수: D2 6문제
@@ -124,7 +124,7 @@
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
         D2 - 11/25
@@ -139,19 +139,19 @@
 **2023.11.08.수**
 <ul>
   <li>
-    시간: (목)01:35-
+    시간: 목 01:35-04:10 <strong>(2H 35M)</strong>
   </li>
   <li>
-    문제 풀이 수: D2 문제
+    문제 풀이 수: D2 9문제
   </li>
    <li>
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
-        D2 - 11/25
+        D2 - 20/25
       </li>
       <li>
         D3 - 0/124
