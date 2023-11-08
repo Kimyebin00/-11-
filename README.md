@@ -136,6 +136,29 @@
   </li>
 </ul>
 
+**2023.11.08.수**
+<ul>
+  <li>
+    시간: (목)01:35-
+  </li>
+  <li>
+    문제 풀이 수: D2 문제
+  </li>
+   <li>
+    SW Expert Academy 문제 현황
+    <ul>
+      <li>
+        D1 - 19/19 <strong>clear!</strong>
+      </li>
+      <li>
+        D2 - 11/25
+      </li>
+      <li>
+        D3 - 0/124
+      </li>  
+    </ul>
+  </li>
+</ul>
 <hr/>
 
 ### 스터디 | 진빈하이볼🍻
