@@ -1,7 +1,5 @@
-# SSAFY 11기 코딩테스트 준비 (SW Expert Academy D1~D3)
-
-## 준비 기록
-
+## SSAFY 11기 코딩테스트 준비 (SW Expert Academy D1~D3)
+### 준비 기록
 **2023.11.03.금**
 <ul>
   <li>
@@ -20,7 +18,7 @@
         D2 - 0/25
       </li>
       <li>
-        D1 - 0/124
+        D3 - 0/124
       </li>  
     </ul>
   </li>
@@ -38,13 +36,13 @@
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
         D2 - 0/25
       </li>
       <li>
-        D1 - 0/124
+        D3 - 0/124
       </li>  
     </ul>
   </li>
@@ -58,17 +56,25 @@
   <li>
     문제 풀이 수: D2 2문제
   </li>
+  <li>
+    시도했지만 못 푼 문제: D2 1문제
+    <ul>
+      <li>
+        1859. 백만 장자 프로젝트
+      </li>
+    </ul>
+  </li>
    <li>
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
         D2 - 2/25
       </li>
       <li>
-        D1 - 0/124
+        D3 - 0/124
       </li>  
     </ul>
   </li>
@@ -77,23 +83,110 @@
 **2023.11.06.월**
 <ul>
   <li>
-    시간:
+    시간: 16:00-18:00 <strong>(2H)</strong>
   </li>
   <li>
-    문제 풀이 수:
+    문제 풀이 수: D2 3문제
+  </li>
+  <li>
+    시도했지만 못 푼 문제: D2 1문제
+    <ul>
+      <li>
+        1974. 스도쿠 검증
+      </li>
+    </ul>
   </li>
    <li>
     SW Expert Academy 문제 현황
     <ul>
       <li>
-        D1 - 19/19 <strong>clear!</strong>
+        <strong>D1 - 19/19 clear!!</strong>
       </li>
       <li>
-        D2 - 2/25
+        D2 - 5/25
       </li>
       <li>
-        D1 - 0/124
+        D3 - 0/124
       </li>  
     </ul>
   </li>
 </ul>
+
+**2023.11.07.화**
+<ul>
+  <li>
+    시간: 18:15-20:35 <strong>(2H 20M)</strong>
+  </li>
+  <li>
+    문제 풀이 수: D2 6문제
+  </li>
+   <li>
+    SW Expert Academy 문제 현황
+    <ul>
+      <li>
+        <strong>D1 - 19/19 clear!!</strong>
+      </li>
+      <li>
+        D2 - 11/25
+      </li>
+      <li>
+        D3 - 0/124
+      </li>  
+    </ul>
+  </li>
+</ul>
+
+**2023.11.08.수**
+<ul>
+  <li>
+    시간: 목 01:35-04:10 <strong>(2H 35M)</strong>
+  </li>
+  <li>
+    문제 풀이 수: D2 9문제
+  </li>
+   <li>
+    SW Expert Academy 문제 현황
+    <ul>
+      <li>
+        <strong>D1 - 19/19 clear!!</strong>
+      </li>
+      <li>
+        D2 - 20/25
+      </li>
+      <li>
+        D3 - 0/124
+      </li>  
+    </ul>
+  </li>
+</ul>
+<hr/>
+
+**2023.11.09.목**
+<ul>
+  <li>
+    시간: 금 00:05-
+  </li>
+  <li>
+    문제 풀이 수: D2 문제
+  </li>
+   <li>
+    SW Expert Academy 문제 현황
+    <ul>
+      <li>
+        <strong>D1 - 19/19 clear!!</strong>
+      </li>
+      <li>
+        D2 - 20/25
+      </li>
+      <li>
+        D3 - 0/124
+      </li>  
+    </ul>
+  </li>
+</ul>
+<hr/>
+
+### 스터디 | 진빈하이볼🍻
+| <img src="https://github.com/Yujin-nKim/SW_Expert_Academy/assets/67141385/c2e8435b-8388-4f13-a916-abd0e56db1f7" width="150" height="150"/> |  <img src="https://github.com/Yujin-nKim/SW_Expert_Academy/assets/67141385/86029bc0-d88b-4296-917e-97d834a23fe1" width="150" height="150"/>  | <img src="https://github.com/Yujin-nKim/SW_Expert_Academy/assets/67141385/ece8d7cd-1d4e-4ab7-81be-556b63f55552" width="150" height="150"/>  |
+|:---:|:---:|:---:|
+|  <a href="https://github.com/Kimyebin00">@Yebin Kim</a>  |  <a href="https://github.com/Yujin-nKim">@Yujin Kim</a>  |  <a href="https://github.com/jinyesong">@Yejin Song</a>  |
